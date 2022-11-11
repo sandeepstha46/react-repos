@@ -18,7 +18,7 @@ const header = () => {
                         <li>Brands</li>
                         <li>New</li>
                         <li>Sales</li>
-                        <li>Eng</li>
+                        <li>ENG</li>
                     </ul>
                 </div>
 
