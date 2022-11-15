@@ -4,9 +4,9 @@ import TodoItem from './TodoItem'
 const Todo = (props) => {
   return (
     <div className='container'>
-      <h3 className='text-uppercase text-center my-5'>Todo List</h3>
+      <h3 className='text-uppercase my-5'><b>Todo List</b></h3>
       {
-        props.todo.length === 0
+        props.todo.length == 0
           ?
           "No Todo to display"
           :
